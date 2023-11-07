@@ -35,7 +35,7 @@ client.remove_background(image_base64="base64encodedimage==")
 
 # or
 
-client.remove_background(image_url="https://imageurl.com/test.jpeg")
+client.remove_background(image_url="https://imageurl.com/test.jpg")
 ```
 
 ### Advanced
