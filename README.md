@@ -4,7 +4,7 @@ Python SDK for [pixian.ai](https://pixian.ai/).
 
 ## What is it?
 
-Remove image backgrounds
+Remove image backgrounds.
 
 ## Install
 
