@@ -35,14 +35,14 @@ client.remove_background(image_base64="base64encodedimage==")
 
 # or
 
-client.remove_background(image_url="https://imageurl.com/test.jpg")
+client.remove_background(image_url="https://imageurl.com/test.jpeg")
 ```
 
 ### Advanced
 
 ```python
 client.remove_background(
-    image_path="/path/to/image",
+    image_path="/path/to/image.jpeg",
     max_pixels=100,
     background_color="#0055FF"
     ...
